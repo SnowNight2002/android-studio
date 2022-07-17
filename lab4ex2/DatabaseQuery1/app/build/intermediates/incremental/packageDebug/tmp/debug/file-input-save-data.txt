@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jun 26 22:20:22 CST 2022
+0.base=D\:\\hd se\\sem1\\4501\\lab4ex2\\DatabaseQuery1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
