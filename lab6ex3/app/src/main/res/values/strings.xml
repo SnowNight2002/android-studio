@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab6ex3</string>
+    <string name="ive_code_url">http://192.168.0.197/lab06q3_api.php</string>
+</resources>
